@@ -1,0 +1,133 @@
+.skelet{
+    width: 375px;
+    height: 3230px;
+    background-color: #FFF0F5;
+    margin: auto;
+}
+.body{
+    background-color: antiquewhite;
+}
+.hero{
+    width: 375px;
+    height: 782px;
+    
+}
+.navbar{
+    width: 332px;
+    height: 55px;
+    
+    margin-left: 22px;
+    margin-top: 22px;
+    position: absolute;
+}
+.nyusite{
+    margin-top: 105px;
+    margin-left: 46px;
+    position: absolute;
+}
+.osnhero{
+    width: 375px;
+    height: 597px;
+    
+    margin-top: 184px;
+    position: absolute;
+}
+.rectan1{
+    width: 330px;
+    height: 563px;
+    background-color: #FFE8EE;
+    border-radius: 30px;
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 34px;
+    z-index: 1;
+}
+.prose{
+    position: absolute;
+    z-index: 10;
+    margin-left: 284px;
+}
+.unicorn{
+    margin-left: 23px;
+    margin-top: 9px;
+    position: absolute;
+}
+.text1{
+    margin-left: 179px;
+    margin-top: 56px;
+    position: absolute;
+}
+.nyuprincess{
+    margin-top: 24px;
+    position: absolute;
+}
+
+.whob2{
+    margin-top: 325px;
+    z-index: 1;
+    margin-left: 80px;
+    
+}
+.whob1{
+    margin-top: 325px;
+    z-index: 10;
+    width: 375px;
+    height: 167px;
+    position: absolute;
+    
+}
+.block3{
+    width: 330px;
+    height: 720px;
+    margin-left: 23px;
+    margin-top: 325px;
+    background-color: #FFE8EE;
+    border-radius: 30px;
+    
+}
+.photo1{
+    display: inline;
+    margin-top: 24px;
+    margin-left: 10px;
+    position: absolute;
+}
+.photo2{
+    display: inline;
+    margin-top: 24px;
+    margin-left: 169px;
+    position: absolute;
+}
+.photo3{
+    display: inline;
+    margin-top: 217px;
+    margin-left: 10px;
+    position: absolute;
+}
+.photo4{
+    display: inline;
+    margin-top: 217px;
+    margin-left: 169px;
+    position: absolute;
+}
+.photo5{
+    display: inline;
+    margin-top: 410px;
+    margin-left: 10px;
+    position: absolute;
+}
+.photo6{
+    display: inline;
+    margin-top: 410px;
+    margin-left: 169px;
+    position: absolute;
+}
+.pic6{
+    position: absolute;
+    margin-left: 90px;
+    margin-top: 615px;
+}
+.block4{
+    position: absolute;
+    margin-top: 325px;
+    margin-left: 22px;
+}

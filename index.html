@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<head>
+    <title>Nyu site</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        function disablecontext(e) {
+            var clickedEl = (e==null) ? event.srcElement.tagName : e.target.tagName;
+            if (clickedEl == "IMG") {
+            alert(errorMsg);
+            return false;
+            }
+        }
+        var errorMsg = "Вы не можете сохранять изображения с этого сайта.";
+        document.oncontextmenu = disablecontext;
+    </script>
+</head>
+<body>
+    <div class="skelet">
+        <div class="hero">
+            <div class="navbar">
+                <img src="images/Group 5.png" alt="">
+            </div>
+            <div class="nyusite">
+                <img src="images/nyusite.png" alt="">
+            </div>
+            <div class="osnhero">
+                <div class="prose"><img src="images/pinkrose.png" alt=""></div>
+                <div class="rectan1">
+                    <div class="nyuprincess"><img src="images/nyuprincess.png" alt=""></div>
+                    <div class="unicorn"><img src="images/unicorn.png" alt=""></div>
+                    <div class="text1"><img src="images/ibelive.png" alt=""></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="whob1"></div>
+        <div class="whob2">
+            <img src="images/Content.png" alt="">
+        </div>
+        <div class="block3">
+            <div class="photo1"><img src="images/photo1.png" alt=""></div>
+            <div class="photo2"><img src="images/photo2.png" alt=""></div>
+            <div class="photo3"><img src="images/photo3.png" alt=""></div>
+            <div class="photo4"><img src="images/photo4.png" alt=""></div>
+            <div class="photo5"><img src="images/photo5.png" alt=""></div>
+            <div class="photo6"><img src="images/photo6.png" alt=""></div>
+            <div class="pic6"><img src="images/6pic.png" alt=""></div>
+        </div>
+        <div class="block4">
+            <img src="images/angel.png" alt="">
+        </div>
+        
+    </div>
+    
+</body>
